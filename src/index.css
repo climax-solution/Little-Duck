@@ -33,14 +33,14 @@ body {
 }
 
 .wallet-btn {
-  background: #2884ba;
-  border-color: #2884ba;
+  background: #2884ba !important;
+  border-color: #2884ba !important;
 }
 
 .mint-btn {
   font-size: 14px;
-  background: #64c4ed;
-  border-color: #64c4ed;
+  background: #64c4ed !important;
+  border-color: #64c4ed !important;
 }
 
 .banner-img {
